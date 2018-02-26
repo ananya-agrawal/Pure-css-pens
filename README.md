@@ -1,4 +1,4 @@
-# pure-css-pens
+# Pure CSS Pens
 - [Koala](https://codepen.io/ananya-agrawal/pen/aEXRyY)
 - [Svg animation](https://codepen.io/ananya-agrawal/pen/LeMqda)
 - [Snowman](https://codepen.io/ananya-agrawal/pen/ZvwdBj)
